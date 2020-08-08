@@ -1,4 +1,4 @@
-##JumpG version_3.1
+#JumpG version_3.1
 
 JumpG stands for JumpingGame
 
