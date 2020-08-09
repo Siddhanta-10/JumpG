@@ -24,6 +24,8 @@ Have fun!!
 
 2.Press ESC to go back to main menu
 
+Note : If JumpG_v3.1_lite.exe does not work on your computer, then try JumpG_3.1.exe
+
 ## License
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
