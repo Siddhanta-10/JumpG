@@ -31,4 +31,4 @@ Have fun!!
 ## Credits
 
 * [Siddhanta Mandal](https://github.com/Siddhanta-10)
-* [Karthikeshwar](https://github.com/Karthikeshwar)
+* [Karthikeshwar](https://github.com/Karthikeshwar1)
