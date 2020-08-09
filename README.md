@@ -10,7 +10,7 @@ JumpG
 
 This is a console game for Windows OS.
 
-Inspired from Google's T-rex game!
+Inspired from [Google's T-rex](chrome://dino/) game!
 
 Have fun!!
 
