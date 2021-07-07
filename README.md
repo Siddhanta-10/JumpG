@@ -18,8 +18,9 @@ Have fun!!
 
 ## Download
 
-* [JumpG_v3.1_lite](https://github.com/Siddhanta-10/JumpG/releases/tag/3.1.2)
-* [JumpG_v3.1](https://github.com/Siddhanta-10/JumpG/releases/tag/3.1.1)
+* [JumpG_v3.1.1](https://github.com/Siddhanta-10/JumpG/releases/tag/3.1.1)
+* [JumpG_v3.1_lite](https://github.com/Siddhanta-10/JumpG/releases/tag/3.1L)
+* [JumpG_v3.1](https://github.com/Siddhanta-10/JumpG/releases/tag/3.1)
 
 Note : If JumpG_v3.1_lite.exe does not work on your computer, then try the portable version JumpG_3.1.exe
 
